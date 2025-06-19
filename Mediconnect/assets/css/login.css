@@ -1,0 +1,121 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    width: 400px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 2rem;
+    color: #333;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 1rem;
+    color: #666;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 1rem;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 1rem;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.forgot {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.forgot a {
+    color: #4CAF50;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.forgot a:hover {
+    text-decoration: underline;
+}
+
+.or {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 0.9rem;
+    color: #777;
+}
+
+.or span {
+    background-color: #ddd;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.social-login {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.social-login img {
+    max-width: 100%;
+    height: auto;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.social-login img:hover {
+    transform: scale(1.03);
+}
+
+
+
+.signup {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9rem;
+}
+
+.signup a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.signup a:hover {
+    text-decoration: underline;
+}

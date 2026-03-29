@@ -57,3 +57,25 @@ This project is for educational purposes.
 
 ## Author
 Nidhi Bhagat
+
+## ScreenShorts of Website
+![image alt](https://github.com/kalwar-5nidhi/MediConnect/blob/ab70c71ee0aba8d7ac8d79bbc18ff796cffbe299/Screenshot%202026-03-29%20191146.png)
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()
+![image alt]()

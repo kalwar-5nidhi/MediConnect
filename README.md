@@ -60,7 +60,7 @@ Nidhi Bhagat
 
 ## ScreenShorts of Website
 ![image alt](https://github.com/kalwar-5nidhi/MediConnect/blob/ab70c71ee0aba8d7ac8d79bbc18ff796cffbe299/Screenshot%202026-03-29%20191146.png)
-![image alt]()
+![image alt](https://github.com/kalwar-5nidhi/MediConnect/blob/ddd6009b7fe8d437586a73b8f8246443bc46e35d/Screenshot%202026-03-29%20191217.png)
 ![image alt]()
 ![image alt]()
 ![image alt]()
